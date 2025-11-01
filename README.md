@@ -2,6 +2,13 @@
 
 <h2>A STREAMLIT DEPLOYED WEB APP</h2>
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://shifali0156-wq-student-score-prediction-app-app-5ozle7.streamlit.app/" target="_blank"
+     style="background: #166d3b; color: #fff; padding: 12px 22px; border-radius: 6px; text-decoration: none; font-size: 1.25em;">
+    🔗 Launch Student Score Prediction App
+  </a>
+</div>
+
 <p style="text-align: center; font-size: 1.2em;">Predict student exam scores from habits and lifestyle, powered by Machine Learning with confidence intervals for every prediction.</p>
 
 <div class="section features">
