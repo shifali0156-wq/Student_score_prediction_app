@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Student Score Prediction App 🎓</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #fafcff; color: #222; }
-    h1 { color: #166d3b; text-align: center; }
-    h2 { color: #2f7dbe; }
-    pre, code { background: #e6f7eb; padding: 8px; border-radius: 4px; }
-    .section { margin: 30px 0; }
-    .features, .instructions, .structure, .models { background: #f3f7ff; padding: 15px 18px; border-radius: 7px; }
-    img { display: block; margin: 15px auto; max-width: 90%; border: 1px solid #ddd; border-radius: 7px; }
-    ul { margin-left: 20px; }
-    .credit { font-style: italic; color: #888; margin-top: 20px; }
-  </style>
-</head>
-<body>
-
 <h1>Student Score Prediction App 🎓</h1>
 <p style="text-align: center; font-size: 1.2em;">Predict student exam scores from habits and lifestyle, powered by Machine Learning with confidence intervals for every prediction.</p>
 
@@ -91,6 +73,3 @@ Student_score_prediction_app/
   </ul>
 </div>
 
-
-</body>
-</html>
