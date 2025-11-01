@@ -1,4 +1,7 @@
 <h1>Student Score Prediction App 🎓</h1>
+
+<h2>A STREAMLIT DEPLOYED WEB APP</h2>
+
 <p style="text-align: center; font-size: 1.2em;">Predict student exam scores from habits and lifestyle, powered by Machine Learning with confidence intervals for every prediction.</p>
 
 <div class="section features">
